@@ -1,0 +1,15 @@
+.porDefecto{
+    display: none;
+}
+
+.activarMensaje{
+    color:red;
+    display: block;
+}
+.activarMensajeCorrecto{
+    color:#1ad401;
+    display: block;
+}
+.formGustos{
+    padding: 12px;
+}
